@@ -1,0 +1,23 @@
+Calculations based on strain in a curve of constant radius gives:
+
+Arm thickness t, length l, displacement d.
+
+Approximate relations:
+
+l = r * theta
+d = (1/2) r * theta^2
+(delta-l) = (1/2) t * theta
+
+...For plastic, keep (delta-l)/l less than 0.03. For metal, less than 0.01.
+
+
+Solving gives:
+
+(delta-l)/l = t * d / l^2
+
+l^2 * [ (delta-l) / l ] = t * d
+
+...Fix all but one component and solve for the remaining one.
+
+
+(This is the end of the file.)
