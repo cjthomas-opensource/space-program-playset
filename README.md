@@ -60,7 +60,11 @@ the linking components used for model assembly.
 * The `cad-model-basic` folder contains CAD files for model components
 using a very simple art style.
 
-* The `reference` folder contains reference diagrams of specific spacecraft
-and space science instruments.
+* The `reference-pics` folder contains reference diagrams and photographs of
+specific spacecraft and space science instruments. **NOTE** - These are
+not released under the project license. For license information, check the
+associated government agencies or commercial agencies.
+
+* The `reference-notes` folder contains other reference material.
 
 _(This is the end of the file.)_
