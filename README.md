@@ -39,8 +39,9 @@ parts of the model set (such as decouplers) are intended to be detachable
 after assembly.
 
 My usual printing service is Shapeways, using their "versatile plastic"
-SLS nylon process. The parts should print as-is with that process. For
-filament-printing, you may need to scale up the parts to 150% or 200%,
+SLS nylon process. The parts should print as-is with that process (you may
+need to check the "print it anyways" box for models with small details).
+For filament-printing, you may need to scale up the parts to 150% or 200%,
 depending on your printer.
 
 These parts pretty much have to be 3d printed. Making them compatible with
@@ -63,7 +64,7 @@ using a very simple art style.
 * The `reference-pics` folder contains reference diagrams and photographs of
 specific spacecraft and space science instruments. **NOTE** - These are
 not released under the project license. For license information, check the
-associated government agencies or commercial agencies.
+associated government agencies or commercial space agencies.
 
 * The `reference-notes` folder contains other reference material.
 
