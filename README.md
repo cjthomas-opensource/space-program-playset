@@ -68,4 +68,9 @@ associated government agencies or commercial space agencies.
 
 * The `reference-notes` folder contains other reference material.
 
+## Gallery
+
+![Communications Satellite Rendering](./cad-model-basic/renders/comm-sat-kit-assembled.png)
+![Communications Satellite Assembly Diagram](./cad-model-basic/renders/comm-sat-kit-exploded.png)
+
 _(This is the end of the file.)_
